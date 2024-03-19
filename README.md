@@ -1,8 +1,16 @@
 # Bangla Speech Emotion, Gender and Speaker Recognition
 
+## Priom Deb
+
+Dept. of Computer Science and Engineering <br>BRAC University, Dhaka, Bangladesh
+
+<tr>
+
 #### Abstract:
 
 This study compares the effectiveness of various audio features and models for multitask audio analysis of Bangla speech, specifically novel approach for gender, and speaker recognition alongside emotion recognition. The study uses the SUBESCO dataset and extracts different features from the speech signals, including MFCC, Chroma, MEL, Rate of Zero-Crossings, and Spectral: Flux, Centroid, Roll-off. Different models, including Gradient Boosting Classifier, MLP Classifier, Random Forest Classifier, Logistic Regression, and SVM, are trained and tested for the three classification tasks. The results show that MFCC, Chroma, and MEL features are the most effective for multitask audio analysis of Bangla speech, achieving high accuracy for gender recognition, speaker recognition, and emotion recognition. Using the SUBESCO (Bangla) and RAVDESS (English) speech datasets, we conduct an evaluation of the suggested technique. The study provides valuable insights for future research in the field of speech analysis and suggests practical applications for speech recognition systems in various domains.
+
+Paper Link: https://ieeexplore.ieee.org/document/10393734
 
 #### Cite
 
