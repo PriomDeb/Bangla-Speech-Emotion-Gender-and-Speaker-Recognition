@@ -1,4 +1,4 @@
-# Bangla Speech Emotion, Gender and Speaker Recognition
+# Multitask Audio Analysis for Emotion, Gender, and Speaker Recognition in Bangla Speech Comparing Features and Models
 
 ## Priom Deb
 
